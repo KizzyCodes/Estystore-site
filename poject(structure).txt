@@ -1,0 +1,10 @@
+esty-delight/
+├── index.html
+├── css/
+│   ├── style.css
+│   └── animations.css
+├── js/
+│   ├── main.js
+│   └── contact-form.js
+├── images/
+└── assets/
